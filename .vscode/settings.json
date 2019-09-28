@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#b47e6e",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "titleBar.activeBackground": "#9e6351",
+        "titleBar.inactiveBackground": "#9e635199",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#9e6351",
+        "statusBarItem.hoverBackground": "#b47e6e",
+        "statusBar.foreground": "#e7e7e7"
+    },
+    "peacock.color": "#9e6351",
+    "cSpell.ignoreWords": [
+        "arreglo",
+        "minlength",
+        "tamano"
+    ]
+}
